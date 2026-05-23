@@ -19,3 +19,5 @@ reviews as an interactive map, with dot size and colour scaled by score.
 - **Output:** Self-contained HTML widget
 
 ## Screenshot
+
+<img width="2880" height="1612" alt="image" src="https://github.com/user-attachments/assets/3e81a8c8-0028-42da-b77b-84a592645d67" />
