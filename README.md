@@ -16,7 +16,7 @@ reviews as an interactive map, with dot size and colour scaled by score.
 
 - **Language:** R
 - **Packages:** leaflet, leaflet.extras, RColorBrewer
-- **Output:** Self-contained HTML widget
+- **Output:** Self-contained HTML widget.
 
 ## Screenshot
 
